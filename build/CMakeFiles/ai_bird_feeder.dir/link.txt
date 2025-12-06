@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ai_bird_feeder.dir/src/main.cpp.o CMakeFiles/ai_bird_feeder.dir/src/EventDetector.cpp.o -o ai_bird_feeder 

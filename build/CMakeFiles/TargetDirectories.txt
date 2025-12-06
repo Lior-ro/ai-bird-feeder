@@ -1,0 +1,3 @@
+/home/liorro/dev/git/build/CMakeFiles/ai_bird_feeder.dir
+/home/liorro/dev/git/build/CMakeFiles/edit_cache.dir
+/home/liorro/dev/git/build/CMakeFiles/rebuild_cache.dir
