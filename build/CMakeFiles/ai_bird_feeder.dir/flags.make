@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/liorro/dev/git/inc
 
-CXX_FLAGS = -std=gnu++17
+CXX_FLAGS = -std=gnu++20
 
